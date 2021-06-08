@@ -6,7 +6,7 @@ Classifies text from three different literary works:
 
 Compares scikit-learn's TF-IDF to Keras GloVe CNN
 
-Multinomial Logistic Regression
+Multinomial Logistic Regression from scikit-learn
 
 DetectorMorse for sentence boundary detection:
 https://github.com/cslu-nlp/DetectorMorse
