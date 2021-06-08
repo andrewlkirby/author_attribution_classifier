@@ -4,9 +4,7 @@ Classifies text from three different literary works:
 - "Oblivion" by David Foster Wallace
 - "Julian" by Gore Vidal
 
-Compares scikit-learn's TF-IDF to Keras GloVe CNN
-
-Multinomial Logistic Regression from scikit-learn
+Compares scikit-learn's TF-IDF + Multinomial Logistic Regression to Keras GloVe CNN
 
 DetectorMorse for sentence boundary detection:
 https://github.com/cslu-nlp/DetectorMorse
